@@ -4,6 +4,11 @@
     "height": 1,
     "width": 2
   },
+  "table1": {
+    "row": 3.4,
+    "height": 8,
+    "width": 8
+  },
   "text1": {
     "row": 2.4,
     "height": 1
