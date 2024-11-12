@@ -8,6 +8,7 @@
     allowedGroupIds={[]}
     allowedGroups={[]}
     events={[]}
+    headers={'[{"key":"header","value":"header"}]'}
     importedQueryDefaults={{}}
     importedQueryInputs={{}}
     privateParams={[]}
