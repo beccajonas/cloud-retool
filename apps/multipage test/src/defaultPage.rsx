@@ -40,6 +40,7 @@
       defaultSelectedRow={{ mode: "index", indexType: "display", index: 0 }}
       emptyMessage="No rows found"
       enableSaveActions={true}
+      primaryKeyColumnId="45995"
       primaryKeyColumnId="ca2fe"
       showBorder={true}
       showFooter={true}
@@ -47,6 +48,7 @@
       toolbarPosition="bottom"
     >
       <Column
+        id="45995"
         id="ca2fe"
         alignment="right"
         editableOptions={{ showStepper: true }}
@@ -61,6 +63,7 @@
         summaryAggregationMode="none"
       />
       <Column
+        id="231fb"
         id="2722c"
         alignment="left"
         format="string"
