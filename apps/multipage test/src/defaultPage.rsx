@@ -1,5 +1,6 @@
 <Screen
   id="defaultPage"
+  _customShortcuts={[]}
   _hashParams={[]}
   _searchParams={[]}
   title="Default Page"
