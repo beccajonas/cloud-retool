@@ -41,6 +41,7 @@
       emptyMessage="No rows found"
       enableSaveActions={true}
       primaryKeyColumnId="45995"
+      primaryKeyColumnId="ca2fe"
       showBorder={true}
       showFooter={true}
       showHeader={true}
@@ -48,6 +49,7 @@
     >
       <Column
         id="45995"
+        id="ca2fe"
         alignment="right"
         editableOptions={{ showStepper: true }}
         format="decimal"
@@ -62,6 +64,7 @@
       />
       <Column
         id="231fb"
+        id="2722c"
         alignment="left"
         format="string"
         groupAggregationMode="none"
