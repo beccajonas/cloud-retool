@@ -1,0 +1,12 @@
+{
+  "toolscriptVersion": "1.0.0",
+  "version": "43.0.9",
+  "pageUuid": "349b2a62-b7ff-11ef-9a94-d7cb9f831de2",
+  "appTemplate": {
+    "appThemeId": 108571,
+    "isGlobalWidget": true,
+    "appThemeName": "Green Theme",
+    "version": "3.127.0",
+    "experimentalDataTabEnabled": true
+  }
+}
