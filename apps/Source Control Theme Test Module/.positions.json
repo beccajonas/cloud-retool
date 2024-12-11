@@ -1,0 +1,23 @@
+{
+  "button1": {
+    "container": "moduleContainer",
+    "height": 1,
+    "width": 2
+  },
+  "checkbox1": {
+    "container": "moduleContainer",
+    "row": 7,
+    "col": 3,
+    "height": 0.6
+  },
+  "moduleContainer": {
+    "height": 12,
+    "width": 12
+  },
+  "rangeSlider1": {
+    "container": "moduleContainer",
+    "row": 2.6,
+    "col": 1,
+    "height": 0.6
+  }
+}
