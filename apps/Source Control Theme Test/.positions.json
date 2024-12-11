@@ -1,0 +1,15 @@
+{
+  "button1": {
+    "row": 2.4,
+    "height": 1,
+    "width": 2
+  },
+  "checkbox1": {
+    "row": 8.8,
+    "height": 0.6
+  },
+  "slider1": {
+    "row": 5.4,
+    "height": 0.6
+  }
+}
