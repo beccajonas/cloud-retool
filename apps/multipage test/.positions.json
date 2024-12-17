@@ -1,17 +1,17 @@
 {
+  "button1": {
+    "row": 3.8,
+    "height": 1,
+    "width": 2
+  },
+  "navigation1": {
+    "row": 2.4,
+    "height": 1,
+    "width": 12
+  },
   "table1": {
     "row": 6,
     "col": 1,
-    "height": 8,
-    "width": 8
-  },
-  "table2": {
-    "row": 2,
-    "height": 8,
-    "width": 8
-  },
-  "table3": {
-    "row": 12.8,
     "height": 8,
     "width": 8
   },
