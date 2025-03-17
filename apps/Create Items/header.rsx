@@ -1,0 +1,30 @@
+<Frame
+  id="$header"
+  enableFullBleed={null}
+  isHiddenOnDesktop={false}
+  isHiddenOnMobile={true}
+  padding="8px 12px"
+  sticky={true}
+  type="header"
+>
+  <Navigation
+    id="navigation1"
+    itemMode="static"
+    src="https://retool-edge.com/83d4d9a1f1ecd17d111e6b4a014043cd.svg"
+  >
+    <Option
+      id="b8035"
+      appTarget="c6028af8-24da-11ef-bc4d-8b6377e7f601"
+      icon="bold/interface-text-formatting-list-bullets"
+      iconPosition="left"
+      itemType="app"
+    />
+    <Option
+      id="2957f"
+      appTarget="d1dff116-24db-11ef-98cd-231c09a80501"
+      icon="bold/interface-add-circle"
+      iconPosition="left"
+      itemType="app"
+    />
+  </Navigation>
+</Frame>
