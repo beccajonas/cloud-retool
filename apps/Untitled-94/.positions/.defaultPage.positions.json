@@ -5,6 +5,12 @@
     "height": 0.2,
     "width": 4
   },
+  "table1": {
+    "row": 8.4,
+    "col": 4,
+    "height": 8,
+    "width": 8
+  },
   "text1": {
     "row": 1.8,
     "col": 3,
